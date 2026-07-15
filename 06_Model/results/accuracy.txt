@@ -1,0 +1,11 @@
+MODEL PERFORMANCE RESULTS
+==================================================
+Random Forest: 99.55%
+SVM: 99.32%
+Naive Bayes: 99.32%
+Gradient Boosting: 98.86%
+KNN: 98.18%
+Decision Tree: 97.95%
+Logistic Regression: 97.95%
+
+Best Model: Random Forest (99.55%)
